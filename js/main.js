@@ -1,4 +1,4 @@
-const GOOGLE_SCRIPT_URL = 'https://docs.google.com/spreadsheets/d/1PbDwnsHJZZmNVDJ42FTZMYBKgJbPB6IYk0IpvmdZh60/edit?gid=0#gid=0';
+const GOOGLE_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbwmGbuGFOPVqhYkO-6ofy-KGz-BkBk9eoXoFFBDqre3n5r5nH6P7SB3t8AKvBp5xcKSIw/exec';
 const STORAGE_KEY = 'itc_wheel_played';
 
 // Danh sách giải thưởng và tổng percentpage phải = 1.0
